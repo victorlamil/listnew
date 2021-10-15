@@ -461,6 +461,3 @@ Click to see the channels list!
 HIT | http://163.172.103.202:8880//get.php?username=287994003825&password=287994003825&type=m3u | Active | 01/23/2021 - 01/23/2023 | Max Connections: 1 | 0 Connected | Real Url: xcui.vitvabc.xyz | Time Zone: America/Sao_Paulo 
 
 Click to see the channels list!
-
-
-• 
